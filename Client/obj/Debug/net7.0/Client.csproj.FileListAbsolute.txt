@@ -1,0 +1,15 @@
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\bin\Debug\net7.0\Client.exe
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\bin\Debug\net7.0\Client.deps.json
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\bin\Debug\net7.0\Client.dll
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\bin\Debug\net7.0\Client.pdb
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.dll
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\refint\Client.dll
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.pdb
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\1Study_BSUIR\ITIROD\ITiROD-main\Lab1\Client\obj\Debug\net7.0\ref\Client.dll
