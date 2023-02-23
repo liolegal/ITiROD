@@ -2,7 +2,7 @@
 # LogIn Page
 ![image](https://user-images.githubusercontent.com/73232366/220889373-bc16caa4-4b6e-4340-952b-bf226145fc98.png)
 # Main Page
-![image](https://user-images.githubusercontent.com/73232366/220889332-ce14f0c7-96a5-4987-937b-9e085cc39251.png)
+![image](https://user-images.githubusercontent.com/73232366/220891391-75c8f3b5-7280-415e-be7f-9af31a7a512a.png)
 
 ## Main-functions
 - Sign in  
