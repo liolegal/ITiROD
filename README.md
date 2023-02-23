@@ -28,5 +28,10 @@
 - Delete todo  
   Method — "DELETE"  
   Params — taskId ___number___  
-  Returns the result of the request 
+  Returns the result of the request
+  
+ - Get count of completed todos  
+  Method — "GET"  
+  Params — userId ___number___  
+  Returns count of completed todos. 
 
