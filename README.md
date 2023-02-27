@@ -1,5 +1,6 @@
 ## TODO APP
 # LogIn Page
+![image](https://user-images.githubusercontent.com/73232366/221599917-7cb8e985-ba05-425b-bb01-3e4ee633b70e.png)
 
 # Main Page without tasks
 ![image](https://user-images.githubusercontent.com/73232366/221599021-5dc40ad8-424c-4ecf-8764-9231d55949fd.png)
@@ -38,4 +39,13 @@
   Method — "GET"  
   Params — userId ___number___  
   Returns count of completed todos. 
-
+  
+ - Get user by id
+  Method — "GET"  
+  Params — userId ___number___  
+  Returns data about user.
+  
+   - Edit user info  
+  Method — "POST"  
+  Params — userId ___number___, nickname __string__ 
+  Returns count of completed todos. 
