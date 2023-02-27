@@ -7,7 +7,7 @@
 # Main Page
 ![image](https://user-images.githubusercontent.com/73232366/221599209-4fe5fce5-8e6e-4c41-b671-9888f4f7f226.png)
 # Main Page with open profile info
-![image](https://user-images.githubusercontent.com/73232366/221599387-93aa24bb-8184-499f-8a06-e9cab523362a.png)
+![image](https://user-images.githubusercontent.com/73232366/221602064-9b7cb8c7-3263-433f-b362-624a8acf9969.png)
 
 ## Main-functions
 - Sign in  
