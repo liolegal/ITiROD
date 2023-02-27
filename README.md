@@ -1,8 +1,12 @@
 ## TODO APP
 # LogIn Page
-![image](https://user-images.githubusercontent.com/73232366/220889373-bc16caa4-4b6e-4340-952b-bf226145fc98.png)
+
+# Main Page without tasks
+![image](https://user-images.githubusercontent.com/73232366/221599021-5dc40ad8-424c-4ecf-8764-9231d55949fd.png)
 # Main Page
-![image](https://user-images.githubusercontent.com/73232366/220891391-75c8f3b5-7280-415e-be7f-9af31a7a512a.png)
+![image](https://user-images.githubusercontent.com/73232366/221599209-4fe5fce5-8e6e-4c41-b671-9888f4f7f226.png)
+# Main Page with open profile info
+![image](https://user-images.githubusercontent.com/73232366/221599387-93aa24bb-8184-499f-8a06-e9cab523362a.png)
 
 ## Main-functions
 - Sign in  
