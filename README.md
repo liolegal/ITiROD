@@ -49,3 +49,27 @@
   Method — "POST"  
   Params — userId ___number___, nickname __string__ 
   Returns count of completed todos. 
+
+
+## Data-models
+
+
+### Data to login  
+Data required for authorization
+- username ___string___
+- password ___string___
+
+
+### Full user info
+Full info about user
+- id ___number___
+- username ___string___
+- email ___string___
+
+
+### Todo data
+Info about todo
+- id: ___number___
+- todo: ___string___
+- userId: ___number___
+- usermade: ___boolean___
